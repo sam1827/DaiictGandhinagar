@@ -9,7 +9,7 @@
         android:id="@+id/fileviewer_Artwork"
         android:layout_width="match_parent"
         android:layout_height="320dp"
-        android:src="@mipmap/ic_launcher"
+        android:src="@mipmap/school"
         android:scaleType="fitXY"
         android:layout_gravity="center"
         android:layout_margin="10dp"/>

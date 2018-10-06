@@ -19,7 +19,7 @@
            android:layout_height="match_parent"
            android:id="@+id/fileview_Artwork"
            android:transitionName="fileviewArtwork"
-           android:src="@mipmap/ic_launcher"
+           android:src="@mipmap/school"
            android:scaleType="centerCrop"/>
 
        <LinearLayout

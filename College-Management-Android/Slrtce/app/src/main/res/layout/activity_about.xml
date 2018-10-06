@@ -57,7 +57,7 @@
                         android:scaleType="centerCrop"
                         android:adjustViewBounds="true"
                         android:padding="15dp"
-                        android:src="@mipmap/ic_launcher"/>
+                        android:src="@mipmap/school"/>
 
                     <TextView
                         android:layout_width="wrap_content"
@@ -137,7 +137,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
-                            android:text="1. Shweta Sahalot"
+                            android:text="1. Aditya Gosalia"
                             android:textSize="20sp"
                             android:layout_marginTop="4dp"
                             android:paddingTop="4dp"
@@ -150,7 +150,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
-                            android:text="2. Aditya Salunkhe"
+                            android:text="2. Sagar Mistry"
                             android:textSize="20sp"
                             android:layout_marginTop="4dp"
                             android:paddingTop="4dp"
@@ -162,7 +162,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
-                            android:text="3. Sanjay Prajapati"
+                            android:text="3. Yash Kuvawala"
                             android:textSize="20sp"
                             android:layout_marginTop="4dp"
                             android:paddingTop="4dp"
@@ -174,7 +174,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:gravity="center"
-                            android:text="4. Sushil Pandey"
+                            android:text="4. Keyu Jain"
                             android:textSize="20sp"
                             android:layout_marginTop="4dp"
                             android:paddingTop="4dp"
