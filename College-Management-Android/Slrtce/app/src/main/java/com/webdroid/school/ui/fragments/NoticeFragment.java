@@ -52,9 +52,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-/**
- * Created by Coolalien on 3/2/2017.
- */
 
 public class NoticeFragment extends BaseFragment {
 

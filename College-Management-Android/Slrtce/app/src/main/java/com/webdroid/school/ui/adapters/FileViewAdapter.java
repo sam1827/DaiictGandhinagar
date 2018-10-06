@@ -20,9 +20,6 @@ import com.webdroid.school.misc.utils.pallete;
 
 import java.util.List;
 
-/**
- * Created by Coolalien on 3/2/2017.
- */
 
 public class FileViewAdapter extends BaseRecyclerViewAdapter<FileviewModel, FileViewAdapter.FileviewHolder> {
 

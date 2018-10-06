@@ -14,9 +14,6 @@ import com.webdroid.school.data.model.Result;
 
 import java.util.List;
 
-/**
- * Created by Coolalien on 2/27/2017.
- */
 
 public class LoadDataAdapter extends BaseRecyclerViewAdapter<Result, LoadDataAdapter.loadViewholder> {
 

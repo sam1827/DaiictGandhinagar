@@ -37,10 +37,6 @@ import org.json.JSONObject;
 import java.text.DecimalFormat;
 import java.util.Calendar;
 
-/**
- * Created by coolalien on 21,March,2017
- */
-
 public class CommonViewAttendanceFragment extends BaseFragment{
 
     private Extras prefrences;

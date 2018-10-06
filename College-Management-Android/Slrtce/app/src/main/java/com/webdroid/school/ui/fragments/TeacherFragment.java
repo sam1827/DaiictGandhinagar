@@ -23,9 +23,6 @@ import com.webdroid.school.ui.activities.AboutActivity;
 import com.webdroid.school.ui.activities.MainActivity;
 import com.webdroid.school.ui.fragments.common.CommonYrFragment;
 
-/**
- * Created by Coolalien on 2/23/2017.
- */
 
 public class TeacherFragment extends BaseFragment implements NavigationView.OnNavigationItemSelectedListener {
 
@@ -101,8 +98,8 @@ public class TeacherFragment extends BaseFragment implements NavigationView.OnNa
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(cmpn);
 
@@ -111,8 +108,8 @@ public class TeacherFragment extends BaseFragment implements NavigationView.OnNa
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(it);
 
@@ -121,8 +118,8 @@ public class TeacherFragment extends BaseFragment implements NavigationView.OnNa
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(civil);
 
@@ -131,8 +128,8 @@ public class TeacherFragment extends BaseFragment implements NavigationView.OnNa
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(mech);
 
@@ -141,8 +138,8 @@ public class TeacherFragment extends BaseFragment implements NavigationView.OnNa
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(etrx);
 
@@ -151,8 +148,8 @@ public class TeacherFragment extends BaseFragment implements NavigationView.OnNa
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(extc);
     }

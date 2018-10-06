@@ -10,9 +10,6 @@ import com.webdroid.school.R;
 import com.webdroid.school.base.BaseFragment;
 import com.webdroid.school.misc.utils.StudentNoticePager;
 
-/**
- * Created by Coolalien on 3/2/2017.
- */
 
 public class SNoticesFragment extends BaseFragment {
 

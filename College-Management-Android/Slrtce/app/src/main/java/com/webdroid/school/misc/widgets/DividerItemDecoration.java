@@ -10,9 +10,6 @@ import android.view.View;
 
 import com.webdroid.school.R;
 
-/**
- * Created by Coolalien on 2/24/2017.
- */
 
 public class DividerItemDecoration extends RecyclerView.ItemDecoration {
 

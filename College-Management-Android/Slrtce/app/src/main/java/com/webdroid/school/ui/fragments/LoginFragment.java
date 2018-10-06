@@ -17,9 +17,7 @@ import com.webdroid.school.data.network.loginAcc;
 import com.webdroid.school.misc.utils.Extras;
 import com.webdroid.school.ui.activities.MainActivity;
 
-/**
- * Created by Coolalien on 2/16/2017.
- */
+
 
 public class LoginFragment extends BaseFragment {
 

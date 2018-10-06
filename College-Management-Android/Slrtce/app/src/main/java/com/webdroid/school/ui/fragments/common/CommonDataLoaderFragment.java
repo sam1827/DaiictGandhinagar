@@ -25,9 +25,6 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Coolalien on 3/8/2017.
- */
 
 public class CommonDataLoaderFragment extends BaseFragment {
 

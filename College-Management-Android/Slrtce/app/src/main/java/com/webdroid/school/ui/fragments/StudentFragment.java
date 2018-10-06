@@ -20,9 +20,6 @@ import com.webdroid.school.ui.activities.AboutActivity;
 import com.webdroid.school.ui.activities.MainActivity;
 import com.webdroid.school.ui.fragments.year.FourthYearFragment;
 
-/**
- * Created by Coolalien on 2/22/2017.
- */
 
 public class StudentFragment extends BaseFragment implements NavigationView.OnNavigationItemSelectedListener {
 

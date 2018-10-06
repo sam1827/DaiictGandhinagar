@@ -1,8 +1,5 @@
 package com.webdroid.school.misc.utils;
 
-/**
- * Created by Coolalien on 2/17/2017.
- */
 
 public class Constants {
 

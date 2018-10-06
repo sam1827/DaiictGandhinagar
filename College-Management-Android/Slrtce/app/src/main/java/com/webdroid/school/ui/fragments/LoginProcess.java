@@ -11,9 +11,7 @@ import com.webdroid.school.base.BaseFragment;
 import com.webdroid.school.misc.utils.Extras;
 import com.webdroid.school.ui.activities.MainActivity;
 
-/**
- * Created by Coolalien on 2/22/2017.
- */
+
 
 public class LoginProcess extends BaseFragment {
 
@@ -51,8 +49,8 @@ public class LoginProcess extends BaseFragment {
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(student);
 
@@ -61,8 +59,8 @@ public class LoginProcess extends BaseFragment {
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(teacher);
 
@@ -71,8 +69,8 @@ public class LoginProcess extends BaseFragment {
                 .crossFade()
                 .centerCrop()
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.mipmap.ic_launcher)
-                .error(R.mipmap.ic_launcher)
+                .placeholder(R.mipmap.school)
+                .error(R.mipmap.school)
                 .override(300,300)
                 .into(other);
     }

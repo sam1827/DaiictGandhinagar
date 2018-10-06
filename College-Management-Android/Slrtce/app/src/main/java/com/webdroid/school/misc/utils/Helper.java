@@ -37,9 +37,6 @@ import java.util.Calendar;
 
 import static android.graphics.Paint.ANTI_ALIAS_FLAG;
 
-/**
- * Created by Coolalien on 3/2/2017.
- */
 
 public class Helper {
 

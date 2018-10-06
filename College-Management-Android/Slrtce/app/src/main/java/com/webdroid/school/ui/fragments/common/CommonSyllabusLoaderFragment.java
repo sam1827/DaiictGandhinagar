@@ -37,9 +37,6 @@ import java.util.List;
 
 import static com.webdroid.school.misc.utils.Helper.now;
 
-/**
- * Created by Coolalien on 3/8/2017.
- */
 
 public class CommonSyllabusLoaderFragment extends BaseFragment {
 

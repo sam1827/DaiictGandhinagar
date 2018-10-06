@@ -12,9 +12,7 @@ import com.webdroid.school.ui.activities.MainActivity;
 import com.webdroid.school.ui.fragments.common.CommonDataLoaderFragment;
 import com.webdroid.school.ui.fragments.common.CommonSyllabusLoaderFragment;
 
-/**
- * Created by Coolalien on 3/8/2017.
- */
+
 
 public class FourthYearFragment extends BaseFragment {
 

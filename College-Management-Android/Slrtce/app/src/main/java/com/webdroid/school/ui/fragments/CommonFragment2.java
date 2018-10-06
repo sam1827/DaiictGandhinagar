@@ -13,9 +13,6 @@ import com.webdroid.school.base.BaseFragment;
 import com.webdroid.school.misc.utils.Extras;
 import com.webdroid.school.misc.widgets.VerticalTextView;
 
-/**
- * Created by Coolalien on 3/4/2017.
- */
 
 public class CommonFragment2 extends BaseFragment {
 

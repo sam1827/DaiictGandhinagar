@@ -2,10 +2,6 @@ package com.webdroid.school.misc.utils;
 
 import android.support.v7.graphics.Palette;
 
-/**
- * Created by Coolalien on 3/6/2017.
- */
-
 public interface pallete {
 
     void palettework(Palette palette);

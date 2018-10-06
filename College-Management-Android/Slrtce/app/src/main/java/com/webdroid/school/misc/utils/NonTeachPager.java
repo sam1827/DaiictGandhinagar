@@ -11,9 +11,6 @@ import com.webdroid.school.ui.fragments.NoticeFragment;
 
 import java.util.Locale;
 
-/**
- * Created by Coolalien on 2/23/2017.
- */
 
 public class NonTeachPager extends FragmentStatePagerAdapter {
 

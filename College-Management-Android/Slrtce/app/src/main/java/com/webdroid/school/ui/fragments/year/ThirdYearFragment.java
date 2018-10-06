@@ -5,9 +5,7 @@ import android.view.View;
 
 import com.webdroid.school.base.BaseFragment;
 
-/**
- * Created by Coolalien on 3/8/2017.
- */
+
 
 public class ThirdYearFragment extends BaseFragment {
 

@@ -27,9 +27,7 @@ import com.webdroid.school.ui.initial.StudentInitFragment;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * Created by Coolalien on 2/22/2017.
- */
+
 
 public class loginAcc {
 

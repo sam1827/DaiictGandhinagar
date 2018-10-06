@@ -6,9 +6,7 @@ import android.support.multidex.MultiDexApplication;
 import com.androidnetworking.AndroidNetworking;
 
 
-/**
- * Created by Coolalien on 2/20/2017.
- */
+
 
 public class Slrtce extends MultiDexApplication {
 

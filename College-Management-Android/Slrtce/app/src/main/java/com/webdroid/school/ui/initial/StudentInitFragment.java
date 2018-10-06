@@ -16,9 +16,6 @@ import com.webdroid.school.ui.adapters.initAdapters.studentinitAdapter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Coolalien on 2/24/2017.
- */
 
 public class StudentInitFragment extends BaseFragment{
 

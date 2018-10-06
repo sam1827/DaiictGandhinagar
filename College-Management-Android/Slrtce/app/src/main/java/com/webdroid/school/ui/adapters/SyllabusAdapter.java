@@ -24,9 +24,7 @@ import java.util.List;
 import static com.webdroid.school.misc.utils.Helper.now;
 
 
-/**
- * Created by Coolalien on 2/26/2017.
- */
+
 
 public class SyllabusAdapter extends BaseRecyclerViewAdapter<Result, SyllabusAdapter.SyllabusViewholder> {
 

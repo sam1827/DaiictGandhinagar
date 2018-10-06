@@ -20,9 +20,6 @@ import com.webdroid.school.ui.fragments.TeacherFragment;
 
 import static com.webdroid.school.misc.utils.Constants.PERMISSIONS_REQ;
 
-/**
- * Created by Coolalien on 2/16/2017.
- */
 
 
 public class MainActivity extends BaseActivity {

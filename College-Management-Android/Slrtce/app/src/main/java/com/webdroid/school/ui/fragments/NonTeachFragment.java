@@ -21,9 +21,7 @@ import com.webdroid.school.misc.utils.NonTeachPager;
 import com.webdroid.school.ui.activities.AboutActivity;
 import com.webdroid.school.ui.activities.MainActivity;
 
-/**
- * Created by Coolalien on 2/23/2017.
- */
+
 
 public class NonTeachFragment extends BaseFragment implements NavigationView.OnNavigationItemSelectedListener {
 

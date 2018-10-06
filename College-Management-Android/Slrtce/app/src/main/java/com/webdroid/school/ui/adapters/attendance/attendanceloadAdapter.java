@@ -21,9 +21,7 @@ import java.util.List;
 
 import static com.webdroid.school.misc.utils.Constants.ATDATA;
 
-/**
- * Created by coolalien on 18,March,2017
- */
+
 
 public class attendanceloadAdapter extends BaseRecyclerViewAdapter<AttendanceModel, attendanceloadAdapter.attendanceloadViewholder> {
 

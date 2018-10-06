@@ -44,9 +44,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Coolalien on 2/23/2017.
- */
 
 public class GeneralFragment extends BaseFragment {
 

@@ -32,9 +32,6 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by coolalien on 18,March,2017
- */
 
 public class CommonAttendanceFragment extends BaseFragment{
 

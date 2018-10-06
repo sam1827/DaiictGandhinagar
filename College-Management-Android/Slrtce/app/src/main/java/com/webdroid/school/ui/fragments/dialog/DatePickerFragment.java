@@ -14,9 +14,7 @@ import com.appeaser.sublimepickerlibrary.helpers.SublimeOptions;
 import com.appeaser.sublimepickerlibrary.recurrencepicker.SublimeRecurrencePicker;
 import com.webdroid.school.R;
 
-/**
- * Created by coolalien on 22,March,2017
- */
+
 
 public class DatePickerFragment extends DialogFragment {
 

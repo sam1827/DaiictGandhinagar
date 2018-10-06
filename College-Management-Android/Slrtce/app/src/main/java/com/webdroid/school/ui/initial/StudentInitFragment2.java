@@ -20,9 +20,7 @@ import com.webdroid.school.ui.fragments.StudentFragment;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Coolalien on 3/8/2017.
- */
+
 
 public class StudentInitFragment2 extends BaseFragment {
 

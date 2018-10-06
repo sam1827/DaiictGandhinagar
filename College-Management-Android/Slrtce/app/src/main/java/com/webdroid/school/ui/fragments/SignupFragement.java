@@ -12,9 +12,6 @@ import com.webdroid.school.base.BaseFragment;
 import com.webdroid.school.data.network.inputview;
 import com.webdroid.school.data.network.registerAcc;
 
-/**
- * Created by Coolalien on 2/16/2017.
- */
 
 public class SignupFragement extends BaseFragment{
 

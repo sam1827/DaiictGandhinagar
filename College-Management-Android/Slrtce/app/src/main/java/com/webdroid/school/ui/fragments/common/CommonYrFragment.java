@@ -14,9 +14,6 @@ import com.webdroid.school.ui.fragments.NoticeFragment;
 import com.webdroid.school.ui.fragments.year.FirstYearFragment;
 import com.webdroid.school.ui.fragments.year.FourthYearFragment;
 
-/**
- * Created by Coolalien on 3/7/2017.
- */
 
 public class CommonYrFragment extends BaseFragment {
 

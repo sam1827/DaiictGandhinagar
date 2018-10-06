@@ -29,9 +29,6 @@ import static com.webdroid.school.misc.utils.Constants.TEACHER_LOGIN;
 import static com.webdroid.school.misc.utils.Constants.TEACHER_LOGIN_TRACK;
 import static com.webdroid.school.misc.utils.Constants.USERNAME;
 
-/**
- * Created by Coolalien on 2/20/2017.
- */
 
 public class Extras {
 

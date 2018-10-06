@@ -9,9 +9,6 @@ import com.webdroid.school.R;
 import com.webdroid.school.base.BaseFragment;
 import com.webdroid.school.ui.activities.MainActivity;
 
-/**
- * Created by Coolalien on 2/26/2017.
- */
 
 public class SecondYearFragment extends BaseFragment {
 

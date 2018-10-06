@@ -9,9 +9,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.webdroid.school.R;
 import com.webdroid.school.base.BaseFragment;
 
-/**
- * Created by Coolalien on 3/7/2017.
- */
+
 
 public class ImageViewFragment extends BaseFragment {
 
@@ -45,8 +43,8 @@ public class ImageViewFragment extends BaseFragment {
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
                 .crossFade()
                 .fitCenter()
-                .error(R.mipmap.ic_launcher)
-                .placeholder(R.mipmap.ic_launcher)
+                .error(R.mipmap.school)
+                .placeholder(R.mipmap.school)
                 .into(fileviewerArtwork);
     }
 

@@ -6,9 +6,6 @@ import android.support.v7.widget.Toolbar;
 import com.webdroid.school.R;
 import com.webdroid.school.base.BaseActivity;
 
-/**
- * Created by Coolalien on 2/27/2017.
- */
 
 public class AboutActivity extends BaseActivity {
 

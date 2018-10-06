@@ -16,9 +16,7 @@ import com.webdroid.school.misc.utils.Extras;
 
 import java.util.List;
 
-/**
- * Created by Coolalien on 2/27/2017.
- */
+
 
 public class studentinitAdapter extends BaseRecyclerViewAdapter<YearBranch, studentinitAdapter.studentinitViewholder> {
 

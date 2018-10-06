@@ -9,9 +9,6 @@ import android.text.TextPaint;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-/**
- * Created by Coolalien on 3/3/2017.
- */
 
 public class VerticalTextView extends TextView {
 

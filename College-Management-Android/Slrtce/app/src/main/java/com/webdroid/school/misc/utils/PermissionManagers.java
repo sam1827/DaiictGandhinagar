@@ -11,9 +11,6 @@ import java.util.List;
 
 import static com.webdroid.school.misc.utils.Constants.PERMISSIONS_REQ;
 
-/**
- * Created by Coolalien on 2/27/2017.
- */
 
 public class PermissionManagers {
 

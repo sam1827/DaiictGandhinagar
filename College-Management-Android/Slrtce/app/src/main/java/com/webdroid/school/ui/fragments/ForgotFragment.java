@@ -15,9 +15,6 @@ import com.webdroid.school.ui.activities.MainActivity;
 
 import static com.webdroid.school.R.id.reset_pass;
 
-/**
- * Created by Coolalien on 2/17/2017.
- */
 
 public class ForgotFragment extends BaseFragment {
 
